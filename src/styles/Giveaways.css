@@ -1,0 +1,36 @@
+.givecontainer {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.giveimage {
+    width: 250px;
+    margin-right: 20px;
+}
+
+.givecontent {
+    flex: 1;
+}
+
+.givetitle {
+    font-size: 24px;
+    margin: 0 0 10px;
+}
+
+.givedesc {
+    font-size: 16px;
+    margin: 0;
+}
+
+#instruction {
+    white-space: pre-line;
+}
+
+#givelink {
+    font-size: 20px;
+    background-color: white;
+    padding: 5px;
+    border-style: outset;
+}
